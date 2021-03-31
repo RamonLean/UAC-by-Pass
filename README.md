@@ -1,2 +1,2 @@
-# Privilege-Escalation
-Escalação de privilégios no Windows
+# UAC by Pass
+Windows 10 LPE (UAC Bypass) no Windows Store (WSReset.exe).
